@@ -1,4 +1,4 @@
-ake;
+snake;
 var fallenLogs = [];
 var colors = [ "#8B008B", "#DC143C", "#FF8C00", "#00008B", "#006400", "#FFD700"];
 var rgbColors = colors.map(hexToRgb);
